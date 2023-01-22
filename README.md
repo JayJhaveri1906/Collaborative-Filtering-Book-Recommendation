@@ -32,5 +32,6 @@ The data is too unrelated, with way less overlapping data for any traditional me
 ## Resuts
 Achieved top 20th position for prediction rating amongst the batch of 600 students and top 25th for read prediction.
 
+##### BEWARE (Disclaimer): Check your academic integrity guidlines if you want to use this in your courses!
 
-###### P.S. The IPYNB file is well documented with testing resuts for each models, I highly recommend you to glance at it
+###### P.S. The [IPYNB](https://github.com/JayJhaveri1906/Collaborative-Filtering-Book-Recommendation/blob/main/CSE258_Ass1.ipynb) file is well documented with testing resuts for each models, I highly recommend you to glance at it
